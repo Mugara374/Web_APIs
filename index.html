@@ -3,28 +3,16 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Typewriter Greeting</title>
-    <style>
-        body {
-            background-image: url(./images/6977167.jpg);
-            color: #000;
-            font-family: Arial, sans-serif;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-        }
-
-    </style>
+    <title>FootInfo - Football App</title>
+    <link rel="stylesheet" href="./CSS/style.css">
 </head>
 
 <body>
+    <header>
     <div id="typewriter-text"></div>
 
     <script>
-        const text = "Hello, welcome to this page!";
+        const text = "Welcome to FootInfo Your number one source of football updates";
         let index = 0;
 
         function typeWriter() {
@@ -37,6 +25,16 @@
 
         typeWriter();
     </script>
+    </header>
+
+    <main>
+        <section class="description">
+            <p>FootInfo is your go-to app for all things football. Stay updated with the latest match details, news, and
+                standings. Use the search bar to find information about your favorite teams, players, and leagues.</p>
+            <a href="./search.html" class="btn">Get Started</a>
+        </section>
+    </main>
+
 </body>
 
 </html>

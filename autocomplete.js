@@ -7,7 +7,21 @@ let availableKeyWords = [
     'transfer news',
     'ucl',
     'europa league',
-    'top scorers'
+    'top scorers',
+    'lionel messi',
+    'cristian ronaldo',
+    'haaland',
+    'mbappe',
+    'bellingham',
+    'man u',
+    'barca',
+    'man city',
+    'chelsea',
+    'liverpool',
+    'psg',
+    'guardiola',
+    'kloop',
+    'ten haag'
 
 ];
 
