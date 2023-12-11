@@ -1,0 +1,20 @@
+{
+  "name": "Web_APIs",
+  "version": "1.0.0",
+  "description": "This is an API application called \"FootInfo\" that helps users access information about football updates. It has a homepage that welcomes the user and also gives them more information about what the application is about. This homepage also contains a \"Get Started\" button that directs the user to the search page with a search bar where they can type football leagues, matches, players etc. Then, they will be redirected to a page that has the relevant football APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Mugara374/Web_APIs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mugara374/Web_APIs/issues"
+  },
+  "homepage": "https://github.com/Mugara374/Web_APIs#readme"
+}
